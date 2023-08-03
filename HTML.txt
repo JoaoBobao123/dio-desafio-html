@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title>Website para o desafio DIO</title>
+    </html>
+    <body>
+        <h1>Desafio de html DIO</h1>
+        <hr/>
+        <h2>Prepare-se para a jornada (Onboarding)</h2>     
+        <p>Essa primeira fase de apresentação do curso foi bem simples e didática para demonstrar qual seria
+         a ideia, não tive maiores dificuldades em sua realização.</p>
+        <h2>Princípios de desenvolvimento de software</h2>  
+        <p>Aqui houve a explicação principalmente sobre a base e o conceito de programar, algo que para mim 
+        sempre foi muito confuso, mas eu consegui me virar bem, no que diz respeito a aptidão eu sempre tive 
+        muita para utilizar equipamentos eletrônicos</p>
+        <h2>Estruturando páginas Web com HTML</h2>  
+        <p>Por mais que eu ainda não tenha terminado essa parte eu estou achando sensacional o uso do html na 
+        prática, esse é um tema que sempre me intrigou, principalmente quando eu descobri que html não era uma
+        linguagem, mas acredito estar me dando muito bem </p>
+        <h2>Fontes e alguns link que eu achei interessantes</h2>  
+     
+        
+        
+            
+<ul>
+   <li> <a href="http://dio.me" target="">link para a plataforma virtual da DIO</a> </li>
+       
+   <li> <a href="https://blog.betrybe.com/desenvolvimento-web/comandos-e-tags-html/" target="">Um site que eu usei para estudar</a> </li>
+
+</ul>
+        </body>
+        </html>
